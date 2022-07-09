@@ -1,0 +1,4 @@
+,id,date,time,zone,currency,importance,event,actual,forecast,previous,accuracy
+17,452391,02/06/2022,08:30,united states,USD,high,Initial Jobless Claims,200K,210K,211K,0
+52,452749,09/06/2022,08:30,united states,USD,high,Initial Jobless Claims,229K,210K,202K,0
+97,453234,16/06/2022,08:30,united states,USD,high,Initial Jobless Claims,229K,215K,232K,0

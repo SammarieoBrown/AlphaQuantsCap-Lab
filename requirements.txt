@@ -1,0 +1,17 @@
+pandas~=1.4.2
+MetaTrader5~=5.0.37
+pyttsx3~=2.90
+ta~=0.10.1
+numpy~=1.23.0
+tensorflow~=2.9.1
+joblib~=1.1.0
+sklearn~=0.0
+scikit-learn~=1.1.1
+keras~=2.9.0
+yfinance~=0.1.70
+Backtesting~=0.3.3
+vectorbt~=0.23.3
+investpy~=1.0.8
+matplotlib~=3.5.2
+seaborn~=0.11.2
+scipy~=1.8.1
